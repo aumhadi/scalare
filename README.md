@@ -1,0 +1,2 @@
+# scalare
+SCADA Application Software
